@@ -1,0 +1,5 @@
+{
+  "number_of_nodes":  200,
+  "network_model(1:ER,2:BA)": 2,
+  "parameter (ER:0<p<=1,BA:1<=m<n)": 10
+}
